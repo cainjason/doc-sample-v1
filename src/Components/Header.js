@@ -1,5 +1,5 @@
 function Header() {
-  return <div>I am a header</div>;
+  return <header className="bg-red-300 text-white">I am a header</header>;
 }
 
 export default Header;
